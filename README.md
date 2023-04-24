@@ -18,7 +18,7 @@ Nombre de la base, tipo de archivo.
 ## H3
 ### Sistema de indexación 
 #### Geoespacial jerárquica hexagonal
-* [python_h3](https://uber.github.io/h3-py/intro.html)
+* [python_h3](https://github.com/uber/h3-py)
 * [R_h3](https://crazycapivara.github.io/h3-r/articles/h3.html)
 
 #### H3_7
