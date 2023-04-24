@@ -14,3 +14,19 @@ Nombre de la base, tipo de archivo.
 *  h8 (gpkg): Objeto espacial generado por H3 con el índice 8
 *  h9 (gpkg): Objeto espacial generado por H3 con el índice 9
 * viz_h3(html): Visualización html de los distintos objetos.
+
+## H3
+### Sistema de indexación 
+#### Geoespacial jerárquica hexagonal
+
+#### H3_7
+![](https://github.com/useReconomist/Incidentes_Viales_CIMAT/blob/main/h7_viz.png)
+
+#### H3_6
+![](https://github.com/useReconomist/Incidentes_Viales_CIMAT/blob/main/h8_viz.png)
+
+#### H3_9
+![](https://github.com/useReconomist/Incidentes_Viales_CIMAT/blob/main/h9_viz.png)
+
+#### H3_789
+![](https://github.com/useReconomist/Incidentes_Viales_CIMAT/blob/main/h789_viz.png)
