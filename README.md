@@ -18,6 +18,8 @@ Nombre de la base, tipo de archivo.
 ## H3
 ### Sistema de indexación 
 #### Geoespacial jerárquica hexagonal
+* [python_h3](https://uber.github.io/h3-py/intro.html)
+* [R_h3](https://crazycapivara.github.io/h3-r/articles/h3.html)
 
 #### H3_7
 ![](https://github.com/useReconomist/Incidentes_Viales_CIMAT/blob/main/h7_viz.png)
